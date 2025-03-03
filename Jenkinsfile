@@ -1,6 +1,5 @@
 pipeline {
-    agent 
-        any
+    agent any
     /* {
         label 'AGENT-1'
     } */
